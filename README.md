@@ -1,39 +1,23 @@
 <h1 align="center">Hi, I'm Shivanshu Sharma 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Backend+Developer;AI+%2F+ML+Enthusiast;Competitive+Programmer;Always+building%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;Competitive+Programmer;Always+building%2C+always+learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivanshu1blackdack&label=Profile%20views&color=38BDF8&style=flat" alt="Profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shivanshu1blackdack&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  </a>
 </p>
 
 ---
 
 ### About Me
 
-I'm a B.Tech student with a growing foundation in **backend development**, **AI/ML**, and **competitive programming**. I enjoy working with Python and FastAPI to build clean, well-structured APIs, and I'm equally at home training models and exploring data as I am optimizing an algorithm for a contest. Outside of code, I spend a fair amount of time looking up — I'm quietly fascinated by astrophotography, galaxies, and the physics of things far away.
+I'm a B.Tech student with a growing foundation in **full-stack development**, **AI/ML**, and **competitive programming**. I enjoy building end-to-end — FastAPI and React working together on the same project — and I'm equally at home training models and exploring data as I am optimizing an algorithm for a contest. Outside of code, I spend a fair amount of time looking up — I'm quietly fascinated by astrophotography, galaxies, and the physics of things far away.
 
-- 🔭 Currently focused on **backend engineering** and **applied machine learning**
+- 🔭 Currently focused on **full-stack development** and **applied machine learning**
 - 🌱 Deepening my skills in **ML, Generative AI, and MLOps**
-- 💼 Junior Developer Intern at **Xigmaweb Technologies Pvt. Ltd.**
 - 🧠 Actively solving problems on **Codeforces**, **CodeChef**, and **LeetCode**
 - 📫 Reach me at **shivanshusharmasks@gmail.com**
-
----
-
-### 💼 Experience
-
-**Junior Developer Intern — Xigmaweb Technologies Pvt. Ltd.**
-
-- Wrote the business logic for an ETL pipeline processing over 1M records in batches of 8,000
-- Migrated a large volume of data records while preserving data integrity and security
-- Built 3–4 reusable React components and a dashboard for a product prototype
-- Reviewed API development and testing, and worked hands-on with FastAPI and Node.js
-- Refactored existing code, eliminating 100+ lines of dead code along the way
 
 ---
 
@@ -121,4 +105,4 @@ I solve algorithmic problems regularly, favoring clear, readable C++ broken into
 <a href="mailto:shivanshusharmasks@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="30" width="30" /></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — always happy to connect over backend systems, AI/ML, or a good algorithmic puzzle.</i></p>
+<p align="center"><i>Thanks for stopping by — always happy to connect over full-stack projects, AI/ML, or a good algorithmic puzzle.</i></p>
